@@ -1,0 +1,27 @@
+companyName: ''
+createNewFolder: false
+exeFileName: 'kong-connector'
+fileDescription: ''
+fileVersion: ''
+hideConsole: false
+icon: ''
+includeJavaFX: false
+includeRemovedJavaEEModules: false
+includeServiceCreator: false
+jarFiles: []
+javaVersion: 11
+jvmOptions: [-Dconfig.properties=/opt/apiwiz/core/Config/kong-connector/config.properties]
+
+legalCopyright: ''
+mainClass: ''
+onlyEncryptJarFiles: false
+outputFolder: /Users/abhinavraman/Desktop/aws/p4j/kong-connector
+platforms:
+- linux
+productName: ''
+productVersion: ''
+splash: ''
+springBootJarFile: /Users/abhinavraman/Desktop/awsJar/jars/kong-connector.jar
+swtApplication: false
+vaadinApp: false
+keySeed: ''
