@@ -39,7 +39,7 @@ cp -r /Users/abhinavraman/Desktop/aws/p4j/*  /Users/abhinavraman/Desktop/aws_fin
 
 download_jars(){
 
-S3_PATH="s3://apiwiz-platform-build-packagess/itorix-build-jar"
+S3_PATH="s3://apiwiz-platform-build-packages/itorix-build-jar"
 
 s3location=${S3_PATH}/${2}/stage/${1}
 
