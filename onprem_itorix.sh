@@ -60,11 +60,10 @@ sed -i '' "s/outputFolder.*/outputFolder: \/Users\/abhinavraman\/Desktop\/aws\/p
 
 /Applications/Protector4J.app/Contents/protector4j-mac/p4j -t spring-boot -f /Users/abhinavraman/Desktop/aws/task.yml -u billing@itorix.com -p 'C2!Y/Ejbd2'
 
-copyjars
-config
-zipandship
-
 }
+
+
+
 
 
         case $1 in
@@ -154,4 +153,6 @@ case $PROFILE in
         esac
 
 
-
+copyjars
+config
+zipandship
